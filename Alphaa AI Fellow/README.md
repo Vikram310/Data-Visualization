@@ -1,0 +1,4 @@
+-> Created a Sales dashboard for Superstore chain
+-> Designed a strategy to increase sales of superstore by 25% using Goal-seek and what-if Analysis
+-> Validated the strategy which was proposed using the forecasting method like Monte Carlo simulation
+-> Did some data storytelling to leadership on sales of 2 months between n teams.
